@@ -13,11 +13,22 @@ This is an *unofficial* repository.
 
 Vector formats are preferred, if possible. Just submit a pull request with your creation or derivative work! Your contributions will fall under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0) license.
 
+**Before submitting a PR, here's some tips:**
+
+- Files are organized into folders by type. If a folder for your file type doesn't already exist, you may create it.
+- Each folder should have a plain-text file called `README`. It credits each file in alphabetical order in this general format:
+```
+file-name.svg
+	Contributed by Your Name
+	Any other source or historical information of interest
+	Adaptation of original-file.png (Original Creator)
+```
+
 
 
 ### Hotlinking
 
-Don't link directly to these images. Their paths will probably change and your links will break.
+We advise against linking directly to these images. Their paths may change and your links will break.
 
 
 
