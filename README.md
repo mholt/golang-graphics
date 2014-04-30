@@ -13,18 +13,18 @@ The goal of this repository is to encourage creativity and innovation in the Go 
 
 [![CC-BY-4.0](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0)
 
-By default, contributions fall under [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0). However, licenses vary among different files, so pay attention before you use.
+By **default**, contributions fall under [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0). However, licenses vary among different files, so pay attention before you use.
 
 
 #### Is a license specified for that file in the README?
 
-Each folder has a file called `README` that contains information about its contents. If a certain file has an exceptional license, it will be specified in `README`.
+Each folder has a file called `README` that contains information about its contents. If a certain file has an exceptional license, it will be specified in the `README`.
 
 
 
-#### Is there a LICENSE file in the folder?
+#### Is there a `LICENSE file in the folder?
 
-If a folder has a LICENSE file, that license applies, by default, to all files in that folder and all sub-folders. It may be overridden on a per-file basis by a license specification in the `README`.
+If a folder has a `LICENSE` file, that license applies, by default, to all files in that folder and all sub-folders. It may be overridden by subsequent `LICENSE` files or on a per-file basis in a `README`.
 
 
 
@@ -54,8 +54,6 @@ We advise against linking directly to these images. Their paths may change and y
 
 ## Original credit
 
-The original Go gopher was created by [Renée French](http://reneefrench.blogspot.com).
-
-According to [Creative Commons Attribution 3.0 USA license](http://creativecommons.org/licenses/by/3.0/us), all derivatives must provide attribution.
+The original Go gopher was created by [Renée French](http://reneefrench.blogspot.com) and is released under [Creative Commons Attribution 3.0 USA license](http://creativecommons.org/licenses/by/3.0/us). Thus all derivatives must provide attribution.
 
 More information about the gopher can be found [on the Go blog](http://blog.golang.org/gopher).
