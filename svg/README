@@ -1,10 +1,24 @@
 gopher-atx.svg
+	Contributed by Ian Remmler
+	https://github.com/ianremmler/atxgolang-logo
+	Created for the Austin Go Language User Group
+	http://www.meetup.com/atxgolang
+	Adaptation of gopherbw.png (Renée French)
+
+gopher-bike.svg
+	Contributed by Caleb Doxsey
+	Art by Abigail Doxsey Anderson
+	CC Attribution-NonCommercial-ShareAlike 4.0 International
+		http://creativecommons.org/licenses/by-nc-sa/4.0/
+	Made for the book, An Introduction to Programming in Go
+		http://www.golang-book.com
+
 gopher-outline.svg
 	Contributed by Ian Remmler
 	https://github.com/ianremmler/atxgolang-logo
 	Created for the Austin Go Language User Group
 	http://www.meetup.com/atxgolang
-	Adaptations of gopherbw.png (Renée French)
+	Adaptation of gopherbw.png (Renée French)
 
 learn-go-and-prosper.svg
 	Originally shared by Albert Vigerih:
