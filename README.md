@@ -5,7 +5,26 @@ A community repository for Go language vector (and bitmap) graphics. It includes
 
 This is an *unofficial* repository.
 
-The goal of this repository is to encourage creativity and innovation in the Go community, as well as fair use. Having access to high-quality vector graphics makes it possible to produce beautiful, creative works that feel familiar and recognizable.
+The goal of this repository is to encourage creativity and innovation (as well as fair use) in the Go community. Having access to high-quality vector graphics and 3D models makes it possible to produce beautiful, creative works that feel familiar and recognizable.
+
+
+
+## How to Contribute
+
+Just submit a pull request with your creation or derivative work. Vector formats are preferred.
+
+**Here's some tips for submitting a PR:**
+
+- Files are organized into folders by type. If a folder for your file type doesn't already exist, you may create it.
+- Each folder should have a plain-text file called `README`. It credits each file in alphabetical order in this kind of format (flexible depending on the contribution):
+```
+file-name.ext
+	Contributed by Your Name
+	If released under a different license, specify it here
+	Adaptation of original-file.png (Original Creator)
+	Any other source or historical information of interest
+```
+- If possible, please try to keep file names lowercase with hyphens between words (no spaces or other punctuation).
 
 
 
@@ -29,26 +48,10 @@ If a folder has a `LICENSE` file, that license applies, by default, to all files
 
 
 
-## Contribute!
-
-Just submit a pull request with your creation or derivative work! Vector formats are preferred.
-
-**Here's some tips for submitting a PR:**
-
-- Files are organized into folders by type. If a folder for your file type doesn't already exist, you may create it.
-- Each folder should have a plain-text file called `README`. It credits each file in alphabetical order in this kind of format:
-```
-file-name.ext
-	Contributed by Your Name
-	If released under a different license, specify it here
-	Adaptation of original-file.png (Original Creator)
-	Any other source or historical information of interest
-```
-
 
 ## Hotlinking
 
-We advise against linking directly to these images. Their paths may change and your links will break.
+We advise against linking directly to these images. GitHub is not a CDN; if the paths ever change, your links will break.
 
 
 
