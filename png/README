@@ -10,6 +10,11 @@ gochem-gopher.png
 	https://github.com/rmera/gochem
 	Adaptation of gopherbw.png (Renée French)
 
+gopher-fogleman.png
+	Copyright Michael Fogleman (michaelfogleman.com)
+	Rendered by fogleman/pt: https://github.com/fogleman/pt
+	Adaptation of 3D model by Takuya Ueda (https://github.com/golang-samples/gopher-3d)
+
 gopher-plushie.png
 	Contributed by Matt
 	Transparency behind Go Gopher plushie from Google Store
